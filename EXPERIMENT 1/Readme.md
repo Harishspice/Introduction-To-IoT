@@ -287,10 +287,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
  ### LED IN OFF STATE:
- ![WhatsApp Image 2023-08-12 at 16 26 14](https://github.com/Harishspice/Expt-1/assets/117935868/e9feeb0c-1517-449f-a2e5-908e7e680c89)
+
+![ledoff](https://github.com/Harishspice/Introduction-To-IoT/assets/117935868/b70e90c4-283c-490b-b090-757792f30482)
 
  ### LED IN ON STATE:
- ![WhatsApp Image 2023-08-12 at 16 26 32](https://github.com/Harishspice/Expt-1/assets/117935868/94b6d88e-92b4-40ad-a311-460d2ad9016d)
+
+![ledon](https://github.com/Harishspice/Introduction-To-IoT/assets/117935868/53770e6c-a210-40be-9b9c-d13426c75330)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
