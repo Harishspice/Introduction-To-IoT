@@ -144,7 +144,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
-![image](/exp3_iot-3.jpg)
+![image](https://github.com/Harishspice/Introduction-To-IoT/assets/117935868/56b5b625-b41d-4f4b-80bf-15137ec6d94b)
  
  ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
