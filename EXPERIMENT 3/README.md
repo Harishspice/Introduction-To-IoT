@@ -15,11 +15,13 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 2.click on cntrl+S , automaticall C program will be generated 
 ![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
 ![image](https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png)
+
 3. edit the program and as per required 
 ![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
 
 4. use project and build all 
 ![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
+
 5.once the project is bulild 
 ![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
@@ -27,15 +29,12 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
 
 7. connect the  ARM board to power supply and usb 
-![281762093-eeb03890-4dfb-4022-8d36-374a33f82839](https://github.com/AJAYASWIN-M/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/118679692/e44856a0-dde6-4a9f-81af-4169e0a7b985)
-
+![image](/exp3_iot-1.png)
 
 8. check for execution of the output using run option
- ![281762248-811f74bb-6d13-4596-a17f-a6d2a497017b](https://github.com/AJAYASWIN-M/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/118679692/c57047ca-7a0f-49d1-9a8a-1a6cc563bc05)
+![image](/exp3_iot-2.png)
 
 9. Opend serial port utility and check the output
-
-
 
 ## STM 32 CUBE PROGRAM :
 
@@ -145,9 +144,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
- ![WhatsApp Image 2023-11-09 at 11 11 25_57ec8234](https://github.com/AJAYASWIN-M/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/118679692/ed29a048-1ae1-4d10-8f08-07566f57b469)
-
+![image](/exp3_iot-3.jpg)
  
- 
-## Result :
+ ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
