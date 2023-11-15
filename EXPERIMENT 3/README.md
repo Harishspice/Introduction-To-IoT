@@ -29,11 +29,11 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
 
 7. connect the  ARM board to power supply and usb 
-![image](/exp3_iot-1.png)
+
+![exp3_iot-1](https://github.com/Harishspice/Introduction-To-IoT/assets/117935868/5668ebcf-0b59-4961-b260-31bcf4e3e71b)
 
 8. check for execution of the output using run option
-![image](/exp3_iot-2.png)
-
+![exp3_iot-2](https://github.com/Harishspice/Introduction-To-IoT/assets/117935868/cc057a74-357e-4a26-8181-a0a237530f80)
 9. Opend serial port utility and check the output
 
 ## STM 32 CUBE PROGRAM :
